@@ -1,0 +1,79 @@
+{
+  "id": "2511401",
+  "name": "teat1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "765381",
+      "name": "我的",
+      "font_class": "my",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "2552123",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4166087",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5270852",
+      "name": "收 藏-产品详情",
+      "font_class": "shoucang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7550266",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "14261038",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19491887",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14301842",
+      "name": "电量",
+      "font_class": "dianliang",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "16322895",
+      "name": "蓝牙",
+      "font_class": "lanya",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "19412284",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
